@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"full_stop_present"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"remov",
+				"removeAreasWithParenthesis"
+			],
+			[
+				"pa",
+				"parentheses"
+			],
+			[
+				"song",
+				"songID"
+			],
+			[
+				"al",
+				"albums"
+			],
+			[
+				"alb",
+				"album"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"file",
+				"file_record"
+			],
+			[
+				"sear",
+				"search_object"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"send",
+				"sendFile"
+			],
+			[
+				"im",
+				"imgRelativeLoc"
+			],
+			[
+				"files",
+				"files_in_database"
+			],
+			[
+				"pr",
+				"printout_objectarray"
+			],
+			[
+				"print",
+				"printout_object"
+			],
+			[
+				"fil",
+				"files_in_database"
+			],
+			[
+				"fi",
+				"files_in_database"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"ob",
+				"object_to_create"
+			],
+			[
+				"metada",
+				"metadata_object"
+			],
+			[
+				"bo",
+				"broken_links"
+			],
+			[
+				"e",
+				"exec"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"image",
+				"image_link"
+			],
+			[
+				"son",
+				"song_record"
+			],
+			[
+				"ima",
+				"image_relativeLoc"
+			],
+			[
+				"musi",
+				"musicmetadata"
+			],
+			[
+				"mus",
+				"musicmetadata"
+			],
+			[
+				"music",
+				"musicmetadata"
+			],
+			[
+				"imag",
+				"image_link"
+			],
+			[
+				"new",
+				"new_files"
+			],
+			[
+				"relativ",
+				"relativeLoc"
+			],
+			[
+				"rela",
+				"relativeLoc"
+			],
+			[
+				"broken",
+				"broken_links"
+			],
+			[
+				"files_in",
+				"files_in_database"
+			],
+			[
+				"songs",
+				"songs_in_db"
+			],
+			[
+				"song_",
+				"song_files_in_database"
+			],
+			[
+				"MU",
+				"MUSIC_FILES"
+			],
+			[
+				"extrac",
+				"extractImagesFromFile"
+			],
+			[
+				"MUSI",
+				"MUSIC_DIRECTORY"
+			],
+			[
+				"mio",
+				"mioDizionario"
+			],
+			[
+				"m",
+				"miaVariabile"
+			],
+			[
+				"mi",
+				"miaVariabileString"
+			],
+			[
+				"n",
+				"n_di_cose"
+			],
+			[
+				"man",
+				"mangiare"
+			],
+			[
+				"ma",
+				"mangiare"
+			],
+			[
+				"bi",
+				"bisogno_di_cagare"
+			],
+			[
+				"sc",
+				"scelte"
+			],
+			[
+				"sce",
+				"scelte"
+			],
+			[
+				"sec",
+				"secondo_numero"
+			],
+			[
+				"una",
+				"unaVariabile"
+			],
+			[
+				"pla",
+				"playingRecord"
+			],
+			[
+				"get",
+				"getNowPlaying"
+			],
+			[
+				"now",
+				"now_playing"
+			],
+			[
+				"now_p",
+				"now_playing_object"
+			],
+			[
+				"MUSIC_",
+				"MUSIC_ROOT_DIRECTORY"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"text",
+				"text-left"
+			],
+			[
+				"this",
+				"this_path"
+			],
+			[
+				"pic",
+				"pic_string"
+			],
+			[
+				"create",
+				"createFileRecordInDB"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"node",
+				"node_dir"
+			],
+			[
+				"cre",
+				"createFileRecordInDB"
+			],
+			[
+				"cr",
+				"createFileRecordInDB"
+			],
+			[
+				"make",
+				"makeRecordGivenObject"
+			],
+			[
+				"meta",
+				"metadata_object"
+			],
+			[
+				"me",
+				"metadata_object"
+			],
+			[
+				"MAKE",
+				"makeRecordGivenObject"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"search",
+				"searchAlbums"
+			],
+			[
+				"fin",
+				"filename"
+			],
+			[
+				"filenam",
+				"filenames"
+			],
+			[
+				"ng",
+				"ng-click"
+			],
+			[
+				"player",
+				"player_song_title"
+			],
+			[
+				"aud",
+				"audio_src"
+			],
+			[
+				"au",
+				"audio_src"
+			],
+			[
+				"audio",
+				"audioSrc"
+			],
+			[
+				"audi",
+				"audioSrc"
+			],
+			[
+				"rec",
+				"playerRecordObject"
+			],
+			[
+				"record",
+				"recordObject"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"angular",
+				"angular_app"
+			],
+			[
+				"col",
+				"col-xs-offset-1"
+			],
+			[
+				"col-xs-",
+				"col-xs-10"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1470,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "music-filenames/stringfuncs.py",
+			"settings":
+			{
+				"buffer_size": 1209,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/python-music-filenames/__init__.py",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/songAPI.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/API.txt",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/details.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/imageAPI.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/correct_imgSrc.py",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/test_script.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/test/misc.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/checker_app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/test/imageAPI_test.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/database_helper.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/database.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend/mongodb_models.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/test/songAPI_test.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/package.json",
+		"/C/Users/Patrick/Desktop/mongod.exe - Shortcut.lnk",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/nodemusic.sublime-project",
+		"/C/Program Files/MongoDB/mongod.cfg",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/node_modules/audio-metadata/package.json",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/angular_app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/songmodel.js",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Lezioni/#1 Introduzione.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Lezioni/#3 Variablil e tipi.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Lezioni/#2 Functions.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Lezioni/#4 Classi e Oggetti.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Esempi/Classes/inheritance.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Esempi/Classes/classes.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Functions/lesson#2-2.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Functions/lesson#2-1.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/lesson#2-2.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/lesson#2-1.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/lesson#1.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/Calcolatrice/main.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/random.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/rock_paper_scissors.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/PracticePlanner/GUI.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/Lorenzo_Learning/classes.py",
+		"/C/Users/Patrick/Desktop/Lorenzo Learning/GUI.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/PracticePlanner/Scales.py",
+		"/C/Users/Patrick/Desktop/Lorenzo Learning/inheritance.py",
+		"/C/Users/Patrick/Desktop/Lorenzo Learning/lesson#2-1.py",
+		"/C/Users/Patrick/Desktop/Lorenzo Learning/lesson#2-2.py",
+		"/C/Users/Patrick/Desktop/Lorenzo Learning/lists.py",
+		"/C/Users/Patrick/Desktop/Lorenzo Learning/lesson#1.py",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/index.html",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/player.html",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/album_titles.html",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/navbar.html",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/player.css",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/style.css",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/frontend/navbar.css",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/public/player.html",
+		"/C/Users/Patrick/Desktop/QuickAPI/app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/bin/www",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/database.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/details.js",
+		"/C/Users/Patrick/Desktop/QuickAPI/package.json",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/song_model.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/song-model.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/songAPI.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/public/angular_app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/old_app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/new_songAPI.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/new_database.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/public/add_to_angular.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/new_app.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/new_database.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/new_songAPI.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/new_details.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/index.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/routes/users.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/backend_script.js",
+		"/C/Users/Patrick/Desktop/nodemusic_nojade/add_to_angular.js",
+		"/C/Users/Patrick/Desktop/nodemusic_nojade/navbar.html",
+		"/C/Users/Patrick/Desktop/nodemusic_nojade/player.html",
+		"/C/Users/Patrick/Desktop/nodemusic_nojade/album_titles.html",
+		"/C/Users/Patrick/Desktop/nodemusic_nojade/nodemusic.html",
+		"/C/Users/Patrick/Desktop/nodemusic.html",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/views/layout.jade",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/views/index.jade",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/views/error.jade",
+		"/C/Users/Patrick/Desktop/Sabrina Store/app.js",
+		"/C/Users/Patrick/Desktop/Sabrina Store/product-details.html",
+		"/C/Users/Patrick/Desktop/Sabrina Store/index.html",
+		"/C/Users/Patrick/Desktop/Sabrina Store/imaginary_backend.json",
+		"/C/Users/Patrick/Desktop/STARTER_PACK_WEBPAGE/index.html",
+		"/C/Users/Patrick/Desktop/ANGULAR.JS COURSE/TRIAL/app.js",
+		"/C/Users/Patrick/Desktop/ANGULAR.JS COURSE/TRIAL/index.html",
+		"/C/Users/Patrick/Desktop/Sabrina Store/js/angular.min.js",
+		"/C/Users/Patrick/Desktop/Example Rest API/app.js",
+		"/C/Users/Patrick/Desktop/Example Rest API/router.js",
+		"/C/Users/Patrick/Documents/PROGRAMMING/JS/ANGULAR TRIAL/index.html",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/public/stylesheets/style.css",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/python-music-filenames/python-music-filenames.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/python-music-filenames/script.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/python-music-filenames/remove.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/python-music-filenames/run.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/python-music-filenames/copy.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/nodemusic_python_script/copy.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/nodemusic_python_script/script.py",
+		"/C/Users/Patrick/Documents/PROGRAMMING/PYTHON/nodemusic_python_script/remove.py",
+		"/C/Users/Patrick/Desktop/ALL_MUSIC",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/public/player_jquery.js",
+		"/C/Users/Patrick/Documents/GitHub/nodemusic/views/player.jade",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Patrick\\Documents\\GitHub\\nodemusic",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"string",
+			"request.query.songID",
+			"\");",
+			"id",
+			"result",
+			"insert",
+			"dir",
+			"createFileRecordInDB",
+			"makeRecordGivenObject",
+			"playNext()",
+			"]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"my_str",
+			"seach_songID",
+			"metadata",
+			"create"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 1470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								1470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "music-filenames/stringfuncs.py",
+					"settings":
+					{
+						"buffer_size": 1209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Patrick/Documents/GitHub/nodemusic/nodemusic.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true
+}

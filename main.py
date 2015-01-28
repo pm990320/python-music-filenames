@@ -26,13 +26,15 @@ def renameMusicFiles(DIRECTORY):
     for root, dirnames, filenames in os.walk(DIRECTORY):
         for filename in filenames:
             new_filename = filename
-            #if filename[2] == " ":
-                #new_filename = filename[3:]
-            new_filename = new_filename.lstrip(' 0123456789-_')
+
+            new_filename = new_filename.lstrip(' 0123456789-_()[]{}')
+
             new_full_path = os.path.join(root, new_filename)
             old_full_path = os.path.join(root, filename)
+
             if os.path.isfile(new_full_path):
                 new_filename = "(2)" + new_filename
                 new_full_path = os.path.join(root, new_filename)
-            os.rename(old_full_path, new_full_path);
+            os.rename(old_full_path, new_full_path)
+
 
